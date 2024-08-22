@@ -141,7 +141,7 @@ int main()
 ### 1.
 ![Screenshot 2024-08-22 233917](https://github.com/user-attachments/assets/71baf49a-0e5f-4683-8127-3b1090b29881)
 ### 2.
-
+![Screenshot 2024-08-22 234236](https://github.com/user-attachments/assets/6f1afdae-ae03-468b-9673-40bc1c219a09)
 ### 3.
 
 
