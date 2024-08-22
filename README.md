@@ -1,7 +1,7 @@
 # EXPERIMENT-9
 
 ## Aim -
-To study and implement pointers basics in c++
+To study and implement pointers basics in C++
 
 ## Theory -
 Pointer is a variable that holds the memory address of another variable.<br>
@@ -11,7 +11,7 @@ Pointers are crucial for dynamic memory management, working with arrays, and eff
 VS Code
 
 ### 1. *Declaring a Pointer*
-A pointer is declared by specifying the type of the data it points to, followed by an asterisk (*), and then the pointer variable name.
+A pointer is declared by specifying the type of data it points to, followed by an asterisk (*), and then the pointer variable name.
 
 ```
 int* ptr;   // Pointer to an integer
@@ -143,7 +143,8 @@ int main()
 ### 2.
 ![Screenshot 2024-08-22 234236](https://github.com/user-attachments/assets/6f1afdae-ae03-468b-9673-40bc1c219a09)
 ### 3.
+![Screenshot 2024-08-22 234558](https://github.com/user-attachments/assets/d710e05f-5a1e-4dd1-8c35-77bdacbddf86)
 
 
 ## Conclusion -
-Pointers are symbolic representations of addresses. They enable programs to simulate call-by-reference as well as to create and manipulate dynamic data structures. Iterating over elements in arrays or other data structures is one of the main use of pointers.
+Pointers are symbolic representations of addresses. They enable programs to simulate call-by-reference as well as to create and manipulate dynamic data structures. Iterating over elements in arrays or other data structures is a main use of pointers.
