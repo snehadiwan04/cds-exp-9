@@ -139,7 +139,7 @@ int main()
 
 ## Output -
 ### 1.
-
+![Screenshot 2024-08-22 233917](https://github.com/user-attachments/assets/71baf49a-0e5f-4683-8127-3b1090b29881)
 ### 2.
 
 ### 3.
